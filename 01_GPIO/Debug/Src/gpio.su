@@ -1,0 +1,2 @@
+../Src/gpio.c:13:6:GPIO_Init	4	static
+../Src/gpio.c:22:6:LED_Toggle	4	static
